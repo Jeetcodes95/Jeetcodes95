@@ -1,7 +1,7 @@
-### Hi, I'm Jeet 👋
+### Hi, I'm Jeetendra Kumar Barman 👋
 
 **AI SaaS Architect. MERN Stack. Next.js. React Native.**  
-Building venture-scale systems, not side projects.
+Building venture-scale systems, collabs & funding talks.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jeetendra-barman-a4656611b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
