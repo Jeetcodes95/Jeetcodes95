@@ -7,6 +7,11 @@ My work focuses on AI-integrated platforms, automation engines, and production-r
 
 ---
 
+<p align="left"> <a href="https://www.linkedin.com/in/jeetendra-barman-a4656611b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; <a href="https://www.jeetendrakumarbarman.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> &nbsp; <a href="https://www.instagram.com/official_jeet_kumar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; <a href="https://www.facebook.com/jeetendra.barman/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> </p>
+
+---
+
+
 ## 🚀 Currently Building
 
 | Product | Description | Stack |
